@@ -13,8 +13,6 @@ int main()
     scanf("%[^\n]s",sen);
     printf("%c",ch);
     printf("\n%s",s);
-    printf("\n%s",sen);
-   
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    printf("\n%s",sen);   
     return 0;
 }
