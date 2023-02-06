@@ -6,8 +6,8 @@
 
 int main() {
 
-    int arr[10]={0,0,0,0,0,0,0,0,0,0};
-    char s[1001];
+    int arr[10]={0};
+    char s[1000];
     gets(s);
     for(int i=0;i<strlen(s);i++)
     {
